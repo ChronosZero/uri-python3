@@ -1,7 +1,7 @@
 #entrada dos dados
 valores = input().split()
 
-#conversao dos valores para float
+#conversao dos valores para int
 
 for i in range(len(valores)):
     valores[i]=int(valores[i])
